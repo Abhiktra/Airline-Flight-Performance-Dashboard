@@ -34,42 +34,46 @@ This Power BI project is structured into **six interactive dashboards**, each fo
 ## 1. ✈️ Project Overview - Airline Delay Performance Dashboard – 2015  
 Overview of dataset, project objectives, key metrics, and high-level flight summary.  
 
-📸 **Screenshot Placeholder:** *(Insert image of Dashboard 1 here)*  
+![Project Overview](./dashboard1_project_overview.png)
+ 
 
 ---
 
 ## 2. ✈️ Airline Delay Performance Dashboard – 2015 (Executive Overview)  
 Visual summary of flights, on-time performance, delays, cancellations, and geographical patterns.  
 
-📸 **Screenshot Placeholder:** *(Insert image of Dashboard 2 here)*  
+![Executive Overview](./dashboard2_executive_overview.png)
+  
 
 ---
 
 ## 3. ☁️ Flight Delay Insights & Root Cause Analysis – 2015  
 Analyzes delay causes, contribution, and severity to identify operational inefficiencies.  
 
-📸 **Screenshot Placeholder:** *(Insert image of Dashboard 3 here)*  
+![Flight Delay Insights](./dashboard3_flightdelay.png)
 
 ---
 
 ## 4. 📊 Airline Performance Benchmarking & KPI Analysis – 2015  
 Compares airline performance, cost efficiency, delay percentage, and on-time metrics.  
 
-📸 **Screenshot Placeholder:** *(Insert image of Dashboard 4 here)*  
+![Airline Performance](./dashboard4_airlineperformance.png)
+ 
 
 ---
 
 ## 5. 🌍 Airport Delay Distribution & Network Impact – 2015  
 Examines delay and cancellation distribution across airports and their network impact.  
 
-📸 **Screenshot Placeholder:** *(Insert image of Dashboard 5 here)*  
+![Airport Delay](./dashboard5_airport_delay.png)
+
 
 ---
 
 ## 6. 💼 Business Impact & Cost Efficiency Analysis – 2015  
 Analyzes the financial impact of delays and highlights cost optimization opportunities.  
 
-📸 **Screenshot Placeholder:** *(Insert image of Dashboard 6 here)*  
+![Business Impact](./dashboard6_business_impact.png)
 
 ---
 
